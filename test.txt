@@ -1,1 +1,4 @@
 "Hello World, Git"
+
+
+"This is another string, just testing how the git commits work"
